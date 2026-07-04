@@ -21,16 +21,6 @@ Designed as a portfolio project, Compose Kit demonstrates how to build clean, sc
 
 ---
 
-## 📱 Screenshots
-
-> Add your application screenshots here.
-
-| Home Screen | Add Item | Search |
-|-------------|----------|--------|
-| Screenshot | Screenshot | Screenshot |
-
----
-
 ## 🏗️ Tech Stack
 
 | Technology | Description |
